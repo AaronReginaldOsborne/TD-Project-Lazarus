@@ -1,0 +1,98 @@
+newmtl BlanchedAlmond
+map_Kd FFE9D0.png
+Kd 1 1 1
+d 1
+
+newmtl redWood
+map_Kd redWood.jpg
+Kd 1 1 1
+d 1
+
+newmtl Default_Prototype
+Kd 1 1 1
+d 1
+
+newmtl wood
+map_Kd pine-wood-500x500.jpg
+Kd 1 1 1
+d 1
+
+newmtl Cabinet
+map_Kd cabinet.jpg
+Kd 1 1 1
+d 1
+
+newmtl kitchenTile
+map_Kd kitchenTile.jpg
+Kd 1 1 1
+d 1
+
+newmtl Pink
+map_Kd pink.jpg
+Kd 1 1 1
+d 1
+
+newmtl ltGreen
+map_Kd ltGreen.jpg
+Kd 1 1 1
+d 1
+
+newmtl roomWall
+map_Kd ltGreen.jpg
+Kd 1 1 1
+d 1
+
+newmtl Blue
+map_Kd blue.jpg
+Kd 1 1 1
+d 1
+
+newmtl yellow
+map_Kd yellow.jpg
+Kd 1 1 1
+d 1
+
+newmtl Mirror
+Kd 1 1 1
+d 0
+
+newmtl Floor
+map_Kd Floor.jpg
+Kd 1 1 1
+d 1
+
+newmtl Tile
+map_Kd tile.jpg
+Kd 1 1 1
+d 1
+
+newmtl plasticBathroom
+map_Kd plasticBathroom.jpg
+Kd 1 1 1
+d 1
+
+newmtl Wall
+map_Kd wall (2).jpg
+Kd 1 1 1
+d 1
+
+newmtl gDoor
+map_Kd grageDoor.jpg
+Kd 1 1 1
+d 1
+
+newmtl driveway
+map_Kd driveway.jpg
+Kd 1 1 1
+d 1
+
+newmtl Puller
+map_Kd ConcretePillar1a.png
+Kd 1 1 1
+d 1
+
+newmtl Grass
+map_Kd grass.jpg
+Kd 1 1 1
+d 1
+

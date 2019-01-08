@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TDWhite">#ffffff</color>
+    <color name="fiftyShadesOfGray">#ececec</color>
+    <color name="TDcolorLTgreen">#82dd82</color>
+    <color name="TDcolorLTPrimary">#55c855</color>
+    <color name="TDcolorPrimary">#34b234</color>
+    <color name="TDcolorPrimAceent">#008a00</color>
+    <color name="TDcolorAccent">#189b18</color>
+    <!--<color name="TDcolorPrimaryDark">#087b08</color>-->
+    <color name="TDcolorPrimaryDark">#154b2f</color>
+    <color name="Red">#DD2C00</color>
+    <color name="Dark_Gray">#888</color>
+</resources>

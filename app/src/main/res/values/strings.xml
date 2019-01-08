@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TD Foreclosures</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">General Description</string>
+    <string name="agent">Contact Premier Agent</string>
+    <string name="realtor">Realtor</string>
+    <string name="company">Company</string>
+    <string name="phone">Phone Number</string>
+    <string name="contact">Contact Agent</string>
+    <string name="property_types">Property Types</string>
+    <string name="price_range">Price Range</string>
+    <string name="houses">Houses</string>
+    <string name="offices">Offices</string>
+    <string name="storage">Storage</string>
+    <string name="land">Land</string>
+    <string name="retailers">Retailers</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="organize_fields">Organize Fields</string>
+    <string name="sort_by">Sort By</string>
+    <string name="title_filter">Foreclosure Filter</string>
+    <string name="list_view">Listing</string>
+    <string name="map_view">Locations</string>
+    <string name="mix_view">Combination</string>
+    <string name="title">Foreclosures</string>
+    <string name="filter">Filter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

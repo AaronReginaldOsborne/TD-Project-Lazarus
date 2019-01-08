@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:70-103
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:104-150
+	android:versionCode
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:2:151-191
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:3:3-108
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:3:20-105
+supports-screens
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:5:3-21:17
+	android:label
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:5:90-122
+	android:icon
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:5:58-89
+	android:theme
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:5:16-57
+receiver#com.unity.analytics.InstallReferrerReceiver
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:6:5-10:16
+	android:enabled
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:6:98-120
+	android:exported
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:6:74-97
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:6:15-73
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:7:7-9:23
+action#com.android.vending.INSTALL_REFERRER
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:8:9-71
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:8:17-68
+activity#ca.agoldfish.td_vr_test.UnityPlayerActivity
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:5-17:16
+	android:screenOrientation
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:48-86
+	android:label
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:15-47
+	android:launchMode
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:87-118
+	android:hardwareAccelerated
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:301-336
+	android:configChanges
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:119-300
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:11:337-395
+meta-data#unityplayer.UnityActivity
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:16:7-82
+	android:value
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:16:59-79
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:16:18-58
+meta-data#unity.build-id
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:18:5-101
+	android:value
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:18:46-98
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:18:16-45
+meta-data#unity.splash-mode
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:19:5-69
+	android:value
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:19:49-66
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:19:16-48
+meta-data#unity.splash-enable
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:20:5-74
+	android:value
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:20:51-71
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:20:16-50
+uses-feature#0x00020000
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:22:3-52
+	android:glEsVersion
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:22:17-49
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:23:3-97
+	android:required
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:23:70-94
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:23:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:24:3-88
+	android:required
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:24:61-85
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:24:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:25:3-99
+	android:required
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:25:72-96
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:25:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:26:3-108
+	android:required
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:26:81-105
+	android:name
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml:26:17-80
+uses-sdk
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		ADDED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml
+		INJECTED from D:\IWD\Semester6FINAL\INFO3097Mobile\TD_Project_Lazarus\TD_Virtual_Tour\src\main\AndroidManifest.xml

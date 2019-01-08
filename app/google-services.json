@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "764203558129",
+    "firebase_url": "https://td-project-lazarus.firebaseio.com",
+    "project_id": "td-project-lazarus",
+    "storage_bucket": "td-project-lazarus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764203558129:android:67e86c9287902f91",
+        "android_client_info": {
+          "package_name": "ca.agoldfish.cardviewtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764203558129-ettmv7g3tghv2tu7f7nbnb6db623ufq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.agoldfish.cardviewtest",
+            "certificate_hash": "05ea034707e86890d253ebec96e6b482ef1629fb"
+          }
+        },
+        {
+          "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0qtO7W0fdDt68FF3lGhB75nK4SwBXuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764203558129:android:76abdec04db3008a",
+        "android_client_info": {
+          "package_name": "ca.agoldfish.drawertest3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764203558129-dkkcgkigbvnuj5u3ai74ceem993opsb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.agoldfish.drawertest3",
+            "certificate_hash": "05ea034707e86890d253ebec96e6b482ef1629fb"
+          }
+        },
+        {
+          "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0qtO7W0fdDt68FF3lGhB75nK4SwBXuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764203558129:android:eb192e992b1dc0f4",
+        "android_client_info": {
+          "package_name": "ca.agoldfish.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764203558129-577cfbg73bmfu78ed9ggi4c9s5301ca5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.agoldfish.googlemaps",
+            "certificate_hash": "05ea034707e86890d253ebec96e6b482ef1629fb"
+          }
+        },
+        {
+          "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0qtO7W0fdDt68FF3lGhB75nK4SwBXuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764203558129:android:b333a6159f86d502",
+        "android_client_info": {
+          "package_name": "ca.agoldfish.td_project_lazarus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764203558129-850883qtsalo3mpjkid6dnd2n7r044te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0qtO7W0fdDt68FF3lGhB75nK4SwBXuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

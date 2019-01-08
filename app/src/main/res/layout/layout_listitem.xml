@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="142dp"
+    tools:layout_editor_absoluteY="81dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.constraint.Guideline
+                android:id="@+id/left_guideline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_begin="154dp" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/left_guideline5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.26" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/left_guideline6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.34" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/left_guideline3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.08" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/left_guideline4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.60" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/top_guideline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/bottom_guideline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.70"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline3" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/bottom_guideline2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.70" />
+
+            <android.support.constraint.Guideline
+                android:id="@+id/bottom_guideline3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="1.0" />
+
+            <ImageView
+                android:id="@+id/propertyImg"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:scaleType="fitXY"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline"
+                app:layout_constraintEnd_toStartOf="@+id/left_guideline"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/top_guideline"
+                app:layout_constraintVertical_bias="1.0"
+                app:srcCompat="@drawable/house" />
+
+            <TextView
+                android:id="@+id/addressTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:fontFamily="sans-serif"
+                android:text="CORNER OF SE BIBLE CAMP ST and 730 SE JIM HALEY TER"
+                android:textAllCaps="false"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/left_guideline"
+                app:layout_constraintTop_toTopOf="@+id/top_guideline" />
+
+            <TextView
+                android:id="@+id/locationTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="London, Ontario N5Z2M5"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/left_guideline"
+                app:layout_constraintTop_toBottomOf="@+id/addressTxt" />
+
+            <TextView
+                android:id="@+id/priceTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="$10,700,000.00"
+                android:textColor="@color/TDcolorAccent"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toEndOf="@+id/propertyImg"
+                app:layout_constraintTop_toBottomOf="@+id/locationTxt" />
+
+            <TextView
+                android:id="@+id/realtorTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="KELLER WILLIAMS WESTERN UPSTATE POWDERSVILLE"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/left_guideline"
+                app:layout_constraintTop_toBottomOf="@+id/priceTxt" />
+
+            <ImageView
+                android:id="@+id/backgroundSubTitle"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@color/fiftyShadesOfGray"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline" />
+
+            <ImageView
+                android:id="@+id/bedImg"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintEnd_toStartOf="@+id/left_guideline3"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline2"
+                app:layout_constraintVertical_bias="0.0"
+                app:srcCompat="@drawable/bed" />
+
+            <TextView
+                android:id="@+id/bedTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="3 beds"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintEnd_toStartOf="@+id/left_guideline5"
+                app:layout_constraintStart_toEndOf="@+id/bedImg"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline2" />
+
+            <ImageView
+                android:id="@+id/bathImg"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintEnd_toStartOf="@+id/left_guideline6"
+                app:layout_constraintStart_toStartOf="@+id/left_guideline5"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline2"
+                app:srcCompat="@drawable/bath2" />
+
+            <TextView
+                android:id="@+id/bathTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="2 baths"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintStart_toEndOf="@+id/bathImg"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline2"
+                app:layout_constraintVertical_bias="0.428" />
+
+            <TextView
+                android:id="@+id/sizeTxt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="1,656 sqft"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/typeImg"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline2" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline"
+                app:srcCompat="@android:color/darker_gray" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="36dp"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:srcCompat="@drawable/rightarrow" />
+
+            <ImageView
+                android:id="@+id/typeImg"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toTopOf="@+id/bottom_guideline3"
+                app:layout_constraintStart_toStartOf="@+id/left_guideline4"
+                app:layout_constraintTop_toTopOf="@+id/bottom_guideline2"
+                app:srcCompat="@drawable/houseicon" />
+
+
+        </android.support.constraint.ConstraintLayout>
+
+    </android.support.v7.widget.CardView>
+</android.support.constraint.ConstraintLayout>

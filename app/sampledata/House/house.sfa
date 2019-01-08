@@ -1,0 +1,598 @@
+{
+  materials: [
+    {
+      name: 'BlanchedAlmond',
+      parameters: [
+        {
+          baseColor: 'FFE9D0',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'redWood',
+      parameters: [
+        {
+          baseColor: 'redWood',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Default_Prototype',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'wood',
+      parameters: [
+        {
+          baseColor: 'pine-wood-500x500',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Cabinet',
+      parameters: [
+        {
+          baseColor: 'cabinet',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'kitchenTile',
+      parameters: [
+        {
+          baseColor: 'kitchenTile',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Pink',
+      parameters: [
+        {
+          baseColor: 'pink',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'ltGreen',
+      parameters: [
+        {
+          baseColor: 'ltGreen',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Blue',
+      parameters: [
+        {
+          baseColor: 'blue',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'yellow',
+      parameters: [
+        {
+          baseColor: 'yellow',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Mirror',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Floor',
+      parameters: [
+        {
+          baseColor: 'Floor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Tile',
+      parameters: [
+        {
+          baseColor: 'tile',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'plasticBathroom',
+      parameters: [
+        {
+          baseColor: 'plasticBathroom',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Wall',
+      parameters: [
+        {
+          baseColor: 'wall (2)',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'gDoor',
+      parameters: [
+        {
+          baseColor: 'grageDoor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'driveway',
+      parameters: [
+        {
+          baseColor: 'driveway',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Puller',
+      parameters: [
+        {
+          baseColor: 'ConcretePillar1a',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Grass',
+      parameters: [
+        {
+          baseColor: 'grass',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/House/house.obj',
+    name: 'house',
+    recenter: 'root',
+    scale: 0.0325201999999999,
+  },
+  samplers: [
+    {
+      file: 'sampledata/House\\kitchenTile.jpg',
+      name: 'kitchenTile',
+      pipeline_name: 'kitchenTile.jpg',
+    },
+    {
+      file: 'sampledata/House\\cabinet.jpg',
+      name: 'cabinet',
+      pipeline_name: 'cabinet.jpg',
+    },
+    {
+      file: 'sampledata/House\\FFE9D0.png',
+      name: 'FFE9D0',
+      pipeline_name: 'FFE9D0.png',
+    },
+    {
+      file: 'sampledata/House\\tile.jpg',
+      name: 'tile',
+      pipeline_name: 'tile.jpg',
+    },
+    {
+      file: 'sampledata/House\\yellow.jpg',
+      name: 'yellow',
+      pipeline_name: 'yellow.jpg',
+    },
+    {
+      file: 'sampledata/House\\redWood.jpg',
+      name: 'redWood',
+      pipeline_name: 'redWood.jpg',
+    },
+    {
+      file: 'sampledata/House\\pine-wood-500x500.jpg',
+      name: 'pine-wood-500x500',
+      pipeline_name: 'pine-wood-500x500.jpg',
+    },
+    {
+      file: 'sampledata/House\\pink.jpg',
+      name: 'pink',
+      pipeline_name: 'pink.jpg',
+    },
+    {
+      file: 'sampledata/House\\blue.jpg',
+      name: 'blue',
+      pipeline_name: 'blue.jpg',
+    },
+    {
+      file: 'sampledata/House\\ltGreen.jpg',
+      name: 'ltGreen',
+      pipeline_name: 'ltGreen.jpg',
+    },
+    {
+      file: 'sampledata/House\\grass.jpg',
+      name: 'grass',
+      pipeline_name: 'grass.jpg',
+    },
+    {
+      file: 'sampledata/House\\Floor.jpg',
+      name: 'Floor',
+      pipeline_name: 'Floor.jpg',
+    },
+    {
+      file: 'sampledata/House\\plasticBathroom.jpg',
+      name: 'plasticBathroom',
+      pipeline_name: 'plasticBathroom.jpg',
+    },
+    {
+      file: 'sampledata/House\\wall (2).jpg',
+      name: 'wall (2)',
+      pipeline_name: 'wall (2).jpg',
+    },
+    {
+      file: 'sampledata/House\\grageDoor.jpg',
+      name: 'grageDoor',
+      pipeline_name: 'grageDoor.jpg',
+    },
+    {
+      file: 'sampledata/House\\driveway.jpg',
+      name: 'driveway',
+      pipeline_name: 'driveway.jpg',
+    },
+    {
+      file: 'sampledata/House\\ConcretePillar1a.png',
+      name: 'ConcretePillar1a',
+      pipeline_name: 'ConcretePillar1a.png',
+    },
+  ],
+  version: '0.52:1',
+}
