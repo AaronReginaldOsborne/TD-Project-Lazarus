@@ -12,4 +12,4 @@ https://projects.invisionapp.com/share/NJPS9ZIDYH2#/screens
 
 Full APK link here
 
--WIP-
+waiting for google play store to approve the application
