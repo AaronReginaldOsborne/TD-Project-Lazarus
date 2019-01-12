@@ -10,5 +10,3 @@ To view workflow of the application
 https://projects.invisionapp.com/share/NJPS9ZIDYH2#/screens
 
 Full APK link here
-
-https://play.google.com/store/apps/details?id=ca.agoldfish.td_project_lazarus
