@@ -6,7 +6,7 @@ android {
         applicationId "ca.agoldfish.td_project_lazarus"
         minSdkVersion 24
         targetSdkVersion 28
-        versionCode 1
+        versionCode 5
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
@@ -42,6 +42,7 @@ android {
     }
 }
 
+
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:28.0.0'
@@ -76,13 +77,6 @@ dependencies {
     implementation project(':TD_Virtual_Tour')
 }
 
-
 ////firebase
 apply plugin: 'com.google.gms.google-services'
 apply plugin: 'com.google.ar.sceneform.plugin'
-
-
-sceneform.asset('sampledata/House/house.obj',
-        'default',
-        'sampledata/House/house.sfa',
-        'src/main/assets/house')
